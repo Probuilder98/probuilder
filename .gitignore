@@ -1,0 +1,10 @@
+src/
+public/
+node_modules/
+dist/
+*.json
+*.js
+*.md
+*.html
+!index.html
+vite.svg
